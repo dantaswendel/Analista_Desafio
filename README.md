@@ -8,9 +8,7 @@ O gerente da programação e logística precisa antecipar a compra desses equipa
 
 O script Python incluído neste repositório executa uma série de operações de processamento de arquivos de texto. Cada seção do script realiza uma função específica para transformar e analisar dados de acordo com requisitos específicos.
 
-Requisitos
-    Python 3.x
-    Biblioteca csv
+Requisitos: Python 3.x  | Biblioteca csv
     
 ## Estrutura do Código
 
