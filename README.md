@@ -1,4 +1,4 @@
-# Processamento de Arquivos de Texto
+# Analisa de Programação e Logística Júnior
 Este repositório contém um script Python para processamento de arquivos de texto que realiza diversas etapas, incluindo remoção de linhas de cabeçalho, filtragem de linhas com critérios específicos, formatação de colunas, e criação de arquivos CSV com contagem de ocorrências específicas.
 
 # PROPOSTA
